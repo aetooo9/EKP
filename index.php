@@ -46,7 +46,7 @@ require 'conn.php';
 }
 
 .mainmenu i {
-  margin-right:10px;
+  margin-left:5px;
 }
 
 /* add hover behaviour */
@@ -72,7 +72,7 @@ require 'conn.php';
 
 .submenu a {
   background-color: #fff;
-  margin-right:10px;
+  margin-left:5px;
   font-size:12px;
 }
 
